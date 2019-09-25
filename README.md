@@ -3,13 +3,15 @@
 
 WEEK 1, WEEK 2 complete assisment added.
 
-WEEK 2, WEEK 3, WEEK 4, WEEK 5 yet to come!
+WEEK 2, WEEK 3, WEEK 4 coming tomorrow!
+
+WEEK 5 yet to come!
 
 
 ## How to upload Graded External Tools assisment
 
-1. Simply compress the Makefile given for each weeks
-2. Upload the compressed makefile to the external grading portal and click submit
+1. Simply compress the folder given for each weeks
+2. Upload the compressed folder to the external grading portal and click submit
 
 
 ## NOTE: 

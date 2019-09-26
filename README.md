@@ -1,9 +1,9 @@
 # Fundamentals of Parallelism on Intel Architecture Answers
       
 
-WEEK 1, WEEK 2 complete assisment added.
+WEEK 1, WEEK 2, WEEK 3 complete assisment added.
 
-WEEK 2, WEEK 3, WEEK 4 coming tomorrow!
+WEEK 4 coming soon!
 
 WEEK 5 yet to come!
 
